@@ -51,15 +51,16 @@ The script installs everything; you do not need to install anything manually.
 
 ## Installation (single command)
 
-1. Download or clone this repo (`https://github.com/Koifajardo/Ryzen-Master-Commander-Ubuntu`).
-2. In a terminal, go into the repo folder:
+1. Clone this repo and run the installer:
 
 ```bash
+git clone https://github.com/Koifajardo/Ryzen-Master-Commander-Ubuntu.git
+cd Ryzen-Master-Commander-Ubuntu
 chmod +x install-standalone.sh
 ./install-standalone.sh
 ```
 
-You will be prompted for your sudo password to install system packages, polkit, and optionally Snap/nbfc.
+2. When prompted, enter your sudo password to install system packages, polkit, and optionally Snap/nbfc.
 
 The script will:
 
