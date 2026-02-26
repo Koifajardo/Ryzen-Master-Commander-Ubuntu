@@ -1,4 +1,4 @@
-# Ryzen Master Commander – Installation
+# Ryzen Master Commander – Installation (Ubuntu)
 
 Linux GUI application (PyQt6) to monitor and control Ryzen laptops: temperature, fan (NBFC), TDP (ryzenadj), real-time graphs, and custom profiles.
 
@@ -51,8 +51,8 @@ The script installs everything; you do not need to install anything manually.
 
 ## Installation (single command)
 
-1. Download or clone this repo and go into the **Build** folder (or download only the Build folder with the three files).
-2. In a terminal, inside that folder:
+1. Download or clone this repo (`https://github.com/Koifajardo/Ryzen-Master-Commander-Ubuntu`).
+2. In a terminal, go into the repo folder:
 
 ```bash
 chmod +x install-standalone.sh
